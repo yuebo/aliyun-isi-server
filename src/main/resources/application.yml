@@ -1,0 +1,7 @@
+provider:
+  name: aliyun
+  app-key: ${APP_KEY}
+  app-secret: ${APP_SECRET}
+  project-id: ${PROJECT_ID}
+spring:
+  application.name: aliyun-isi-server
